@@ -1,0 +1,6 @@
+
+def gangeToTall(x,y): 
+    print (x*y)
+
+
+gangeToTall(30,20)
