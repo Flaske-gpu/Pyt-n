@@ -1,6 +1,9 @@
 
-def gangeToTall(x,y): 
-    print (x*y)
+def gangeToTall(x, y):
+    print(x*y)
+
+# gangeToTall(30,20)
 
 
-gangeToTall(30,20)
+for i in range(10):
+    print(i*i)
