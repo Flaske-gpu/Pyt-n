@@ -1,9 +1,17 @@
 
-def gangeToTall(x, y):
-    print(x*y)
+# def gangeToTall(x, y):
+# print(x*y)
 
 # gangeToTall(30,20)
 
 
-for i in range(10):
-    print(i*i)
+# for i in range(10):
+# print(i*i)
+
+
+# lage en iterator
+
+minfrukt = ("apple", "banana", "cherry")
+
+for x in minfrukt:
+    print(x)
